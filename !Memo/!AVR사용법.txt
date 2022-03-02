@@ -1,0 +1,1 @@
+Zadig 설치 후, Options에서 List All Devices 선택하고 WinUSB를 libusb-win32로 변경
